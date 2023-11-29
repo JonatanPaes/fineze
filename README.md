@@ -23,7 +23,7 @@ Node version 18.16.0
 Clone
 
 ```bash
-git clone 
+git clone https://github.com/JonatanPaes/fineze.git
 ```
 
 Para executar o projeto
