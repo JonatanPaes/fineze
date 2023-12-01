@@ -54,5 +54,6 @@ yarn dev
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [Styled Components](https://styled-components.com/)
 - [Phosphor](https://phosphoricons.com/)
+- [Radix UI](https://www.radix-ui.com/)
 - [React Hook Form](https://www.react-hook-form.com/)
 - [Vite](https://vitejs.dev/)
