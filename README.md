@@ -47,7 +47,7 @@ yarn dev
 
 Para executar o servidor
 ```sh
-npx json-server server.json
+yarn dev:server
 ```
 
 <p align="center">
