@@ -80,7 +80,9 @@ interface TransactionTypeButtonProps {
   variant: 'income' | 'outcome'
 }
 
-export const TransactionTypeButton = styled(RadioGroup.Item)<TransactionTypeButtonProps>`
+export const TransactionTypeButton = styled(
+  RadioGroup.Item,
+)<TransactionTypeButtonProps>`
   background: ${(props) => props.theme['gray-700']};
   padding: 1rem;
   display: flex;
@@ -100,7 +102,7 @@ export const TransactionTypeButton = styled(RadioGroup.Item)<TransactionTypeButt
   }
 
   &[data-state='unchecked']:hover {
-    background: ${props => props.theme["gray-600"]};
+    background: ${(props) => props.theme['gray-600']};
     transition: background-color 0.2s;
   }
 
@@ -111,8 +113,8 @@ export const TransactionTypeButton = styled(RadioGroup.Item)<TransactionTypeButt
         ? props.theme['green-500']
         : props.theme['red-500']};
 
-      svg {
-        color: ${(props) => props.theme.white};
-      }
+    svg {
+      color: ${(props) => props.theme.white};
+    }
   }
 `
