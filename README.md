@@ -45,6 +45,11 @@ Para executar o projeto
 yarn dev
 ```
 
+Para executar o servidor
+```sh
+npx json-server server.json
+```
+
 <p align="center">
   <img alt="Demonstration web" src="./preview/" width="100%" height="100%" />
 </p>
