@@ -55,5 +55,5 @@ yarn dev
 - [Styled Components](https://styled-components.com/)
 - [Phosphor](https://phosphoricons.com/)
 - [Radix UI](https://www.radix-ui.com/)
-- [React Hook Form](https://www.react-hook-form.com/)
+- [JSON Server](https://github.com/typicode/json-server)
 - [Vite](https://vitejs.dev/)
