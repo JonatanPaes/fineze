@@ -61,4 +61,6 @@ yarn dev:server
 - [Phosphor](https://phosphoricons.com/)
 - [Radix UI](https://www.radix-ui.com/)
 - [JSON Server](https://github.com/typicode/json-server)
+- [Zod](https://zod.dev/)
+- [React Hook Form](https://www.react-hook-form.com/)
 - [Vite](https://vitejs.dev/)
