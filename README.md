@@ -63,4 +63,5 @@ yarn dev:server
 - [JSON Server](https://github.com/typicode/json-server)
 - [Zod](https://zod.dev/)
 - [React Hook Form](https://www.react-hook-form.com/)
+- [Axios](https://axios-http.com/)
 - [Vite](https://vitejs.dev/)
