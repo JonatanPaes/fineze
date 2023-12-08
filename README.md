@@ -64,4 +64,5 @@ yarn dev:server
 - [Zod](https://zod.dev/)
 - [React Hook Form](https://www.react-hook-form.com/)
 - [Axios](https://axios-http.com/)
+- [UseContextSelector](https://github.com/dai-shi/use-context-selector)
 - [Vite](https://vitejs.dev/)
