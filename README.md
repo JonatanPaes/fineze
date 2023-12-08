@@ -51,7 +51,7 @@ yarn dev:server
 ```
 
 <p align="center">
-  <img alt="Demonstration web" src="./preview/" width="100%" height="100%" />
+  <img alt="Demonstration web" src="./preview/fineze.gif" width="100%" height="100%" />
 </p>
 
 # Tecnologias
